@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-abdelsayed)](https://github.com/john-abdelsayed/john-abdelsayed)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-abdelsayed&count_private=true&show_icons=true)](https://github.com/john-abdelsayed/john-abdelsayed)
 
 ## John Marcus (Abdelsayed) Aziz
 
