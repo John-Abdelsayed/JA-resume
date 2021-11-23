@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-abdelsayed)](https://github.com/john-abdelsayed/john-abdelsayed)
+
 ## John Marcus (Abdelsayed) Aziz
 
 #### Co-founder of Digital Transformation Innovators Group (DTIG), a consulting services company specializing in the 4 disciplines of digital transformation.
