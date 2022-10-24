@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# John Abdelsayed 
 
-You can use the [editor on GitHub](https://github.com/John-Abdelsayed/John-Abdelsayed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Digital Transformation Innovators Group (DTIG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Principal, Enterprise and Cloud Architect**
 
-### Markdown
+*July 2017 - Present*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Founded company with > $2 million in yearly revenue.
 
-```markdown
-Syntax highlighted code block
+- Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
-# Header 1
-## Header 2
-### Header 3
+- Spun off 2 separate companies with combined $20 million valuation.
 
-- Bulleted
-- List
+- Responsible for all client, B2B, and C2C relationships.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## VisualQ
 
-[Link](url) and ![Image](src)
-```
+### **Co-Founder**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Sept 2018 - Present*
 
-### Jekyll Themes
+- Patented a hand sanitation compliance enforcement systems and its methods
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/John-Abdelsayed/John-Abdelsayed/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Principal embedded device designer and architect
 
-### Support or Contact
+- Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that utilizes an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Responsible for licensing and monetization paths; including low vs high compliance and open source.
+
+
+---
+
+## Insightful Health 
+
+### **Co-Founder**
+
+*Jan 2020 - Present*
+
+- Raised $1 million in pre-seed funding through combined offering of common and preffered equity with super-voting rights.
+
+- Primary lead on all organization pitches.
+
+---
+
+## Corporation Service Company (CSC)
+
+### **Manager Portals and Collaboration**
+
+*May 2014 - June 2016*
+
+- Responsible for all SaaS and internal portal and collaboration software.
+
+- Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
+
+- Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
