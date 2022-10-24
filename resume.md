@@ -4,28 +4,28 @@
 
 ### ** Principal, Enterprise and Cloud Architect **
 
-July 2017 - Present
+*July 2017 - Present*
 
 ---
 
 ## VisualQ
 
-### ** Co-Founder **
+### **Co-Founder**
 
-Sept 2018 - Present
+*Sept 2018 - Present*
 
 ---
 
 ## Insightful Health 
 
-### ** Co-Founder **
+### **Co-Founder**
 
-Jan 2020 - Present
+*Jan 2020 - Present*
 
 ---
 
 ## Corporation Service Company (CSC)
 
-### ** Manager Portals and Collaboration **
+### **Manager Portals and Collaboration**
 
-May 2014
+*May 2014 - June 2016*
