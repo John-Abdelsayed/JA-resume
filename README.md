@@ -1,31 +1,58 @@
-# John Marcus (Abdelsayed) Aziz
+# John Abdelsayed 
 
-### Founder - [Digital Transformation Innovators Group (DTIG)](https://www.dtig.us), a consulting services company specializing in digital transformation.
+## Digital Transformation Innovators Group (DTIG)
 
----
+### **Principal, Enterprise and Cloud Architect**
 
-### Founder - [VisualQ](https://www.visualqai.com), a R&D partnership focusing on emerging technologies.
+*July 2017 - Present*
 
----
+- Founded company with > $2 million in yearly revenue.
 
-### Founder - [Insightful Health](https://www.insightfulhealthai.com), a healthcare-oriented startup with products in the hand sanitation realm.
+- Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
----
+- Spun off 2 separate companies with combined $20 million valuation.
 
-- #### Multiple patents in the areas of AI, Computer Vision, and Machine Learning.
-
-- #### Specialist in architecting enterprise-ready solutions and products that embrace the next-generation of technology.
-
-- #### Proficient in a number of programming languages, infrastructure platforms, and service applications with an emphasis on Hyperautomation.
-
-
-### ***Our culture is to do make the world a better place for all and to do no harm.***
+- Responsible for all client, B2B, and C2C relationships.
 
 ---
 
-### [My Resume](resume.md)
+## VisualQ
+
+### **Co-Founder**
+
+*Sept 2018 - Present*
+
+- Patented a hand sanitation compliance enforcement systems and its methods
+
+- Principal embedded device designer and architect
+
+- Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that utilizes an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
+
+- Responsible for licensing and monetization paths; including low vs high compliance and open source.
+
 
 ---
-### My stats
 
-[![John Marcus Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-abdelsayed&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/john-abdelsayed/john-abdelsayed)
+## Insightful Health 
+
+### **Co-Founder**
+
+*Jan 2020 - Present*
+
+- Raised $1 million in pre-seed funding through combined offering of common and preffered equity with super-voting rights.
+
+- Primary lead on all organization pitches.
+
+---
+
+## Corporation Service Company (CSC)
+
+### **Manager Portals and Collaboration**
+
+*May 2014 - June 2016*
+
+- Responsible for all SaaS and internal portal and collaboration software.
+
+- Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
+
+- Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
