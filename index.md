@@ -1,7 +1,3 @@
-# John Marcus (Abdelsayed) Aziz
-
-## Digital Transformation Innovators Group (DTIG)
-
 ### **Principal, Enterprise and Cloud Architect**
 
 *July 2017 - Present*
