@@ -6,11 +6,11 @@
 
 *July 2017 - Present*
 
-- Founded company with > $2 million in yearly revenue.
+- Co-founded company with > $2 million in yearly revenue.
 
 - Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
-- Spun off 2 separate companies with combined $20 million valuation.
+- Spun off 2 separate companies with combined $20 million valuation and strong Intelectual Property (IP) portfolio.
 
 - Responsible for all client, B2B, and C2C relationships.
 
@@ -22,37 +22,28 @@
 
 *Sept 2018 - Present*
 
-- Patented a hand sanitation compliance enforcement systems and its methods
+- Founded company with a patent portfolio worth an estimated $5 million.
 
-- Principal embedded device designer and architect
+- Patented a hand sanitation compliance enforcement systems and its methods.
+
+- Responsible for all investor and VC relationships.
 
 - Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
-- Responsible for licensing and monetization paths; including low vs high compliance and open source.
-
-
 ---
 
-## Insightful Health 
+## Insightful Health
 
 ### **Co-Founder**
 
 *Jan 2020 - Present*
 
-- Raised $1 million in pre-seed funding through combined offering of common and preffered equity with super-voting rights.
+- Raised $1 million in pre-seed funding on a $10M valuation through combined offering of common and preffered equity with super-voting rights.
+
+- Principal embedded device designer and prototype architect.
 
 - Primary lead on all organization pitches.
 
+- Responsible for licensing and monetization paths; including low vs high compliance and open source.
+
 ---
-
-## Corporation Service Company (CSC)
-
-### **Manager Portals and Collaboration**
-
-*May 2014 - June 2016*
-
-- Responsible for all SaaS and internal portal and collaboration software.
-
-- Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
-
-- Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
