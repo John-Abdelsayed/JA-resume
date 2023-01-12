@@ -1,12 +1,24 @@
 # John Marcus (Abdelsayed) Aziz
 
+---
+
+#### Lake Forest, IL 60045 | 773.457.9765
+
+#### www.johnmarcusaziz.com | [www.linkedin.com/john-marcus-aziz](https://www.linkedin.com/in/john-marcus-aziz/) | john.marcus.aziz@gmail.com
+
+---
+
 ## Digital Tranformation Innovators Group (DTIG)
+
+#### Pepper Pike, OH 44124 | 773.945.1123
+
+#### www.dtig.us | [www.linkedin.com/](https://www.linkedin.com/company/37227372/admin/)
 
 ### **Principal, Enterprise and Cloud Architect**
 
 *July 2017 - Present*
 
-- Co-founded company with > $2 million in yearly revenue.
+- Co-founded IT professional services consulting company with > $1M in yearly revenue.
 
 - Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
@@ -18,11 +30,15 @@
 
 ## VisualQ
 
+#### Wilmington, DE 19801 | 773.945.1123
+
+#### www.dtig.us | [www.linkedin.com/](https://www.linkedin.com/company/37227372/admin/)
+
 ### **Co-Founder**
 
 *Sept 2018 - Present*
 
-- Founded company with a patent portfolio worth an estimated $5 million.
+- Founded company with a patent portfolio valuation of ~$5 million.
 
 - Patented a hand sanitation compliance enforcement systems and its methods.
 
@@ -33,6 +49,10 @@
 ---
 
 ## Insightful Health
+
+#### Lake Forest, IL 60045 | 773.945.1123
+
+#### www.dtig.us | [www.linkedin.com/](https://www.linkedin.com/company/37227372/admin/)
 
 ### **Co-Founder**
 
