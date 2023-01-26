@@ -12,18 +12,19 @@
 
 ---
 
-## Digital Tranformation Innovators Group (DTIG)
+## Digital Transformation Innovators Group (DTIG)
 
-### **Co-Founder, Senior Enterprise and Cloud Architect**
+### **Co-Founder, Senior Enterprise and Solutions Architect**
 
-*2017 - Present*
+*2017 - present*
 
-Co-founded IT digital transformation services consulting company averaging $1M in yearly revenue. Launched separate companies with combined $5 million valuation and strong Intelectual Property (IP) portfolio. Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
+Co-founded IT digital transformation services consulting company averaging $1M in yearly revenue. Spun-off two, separate companies with combined $5 million valuation and strong Intellectual Property (IP) patent portfolio.
 
-| | ||
 |--|--|--|
 |Orchestration| Containerization| Virtualization|
 |DevOps|CI/CD|Software Development|
+
+- Led all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
 - Responsible for all DTIG client, B2B, and C2C relationships, including multi-year partnerships with Tahoe Partners and Improving Consulting
 
@@ -37,16 +38,13 @@ Co-founded IT digital transformation services consulting company averaging $1M i
 
 *2018 - Present*
 
-Founded company with a patent portfolio valuation of ~$5 million. Patented a hand sanitation compliance enforcement systems and its methods.
+Patented a hand sanitation compliance enforcement systems and its methods. Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artificial-Intelligence-As-A-Service (AIaaS) to build an IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
-| | ||
-|--|--|--|
-|Orchestration| Containerization| Virtualization|
-|DevOps|CI/CD|Software Development|
+- Founded company with a patent portfolio valuation of ~$5 million.
 
 - Responsible for all investor and VC relationships.
 
-- Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artificial-Intelligence-As-A-Service (AIaaS) to build an IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
+- Responsible for all past patent maintenance, current patent prosecution, and future provisionals and continuations
 
 ---
 
@@ -56,22 +54,17 @@ Founded company with a patent portfolio valuation of ~$5 million. Patented a han
 
 *2020 - Present*
 
-- Raised $1 million in pre-seed funding on a $10M valuation through combined offering of common and preffered equity with super-voting rights.
+Raised $1 million in pre-seed funding on a $10M valuation through combined offering of common and preffered equity with super-voting rights.
+
+|--|--|--|
+|Embedded Device| Computer Vision| Machine Learning|
+|AGI|IoT at Edge| Neural Networks|
 
 - Principal embedded device designer and prototype architect.
 
-- Primary lead on all organization pitches.
-
-
-| | ||
-|--|--|--|
-|Orchestration| Containerization| Virtualization|
-|DevOps|CI/CD|Software Development|
-
-
 - Responsible for licensing and monetization paths; including low vs high compliance.
 
-- Open-sourced insititutional knowledge.
+- Open-sourced insititutional knowledge to accelerate deployment to countries for a low.
 
 ---
 
