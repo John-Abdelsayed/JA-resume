@@ -2,13 +2,13 @@
 
 ---
 
-#### www.johnmarcusaziz.com | [LinkedIn](https://www.linkedin.com/in/john-marcus-aziz/) | [Email](john.marcus.aziz@gmail.com)| Lake Forest, IL 60045 | 773.457.9765
+#### www.johnmarcusaziz.com | [LinkedIn](https://www.linkedin.com/in/john-marcus-aziz/) | [Email](john.marcus.aziz@gmail.com)| Lake Forest, IL 60045 | 773.945-1123
 
 ---
 
 ### Objective
 
- specialize in architecting solutions and products that embrace the next-generation of technology. I am proficient in a number of programming languages, infrastructure platforms, and service applications with an emphasis on Artificial General Intelligence.
+ I specialize in architecting solutions and products that embrace the next-generation of technology. I am proficient in a number of programming languages, infrastructure platforms, and service applications with an emphasis on AGI and MLOps.
 
 ---
 
