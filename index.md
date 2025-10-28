@@ -4,9 +4,9 @@
 
 ### **Principal, Enterprise and Cloud Architect**
 
-*July 2017 - Present*
+#### *July 2017 - Present*
 
-- Founded company with > $2 million in yearly revenue.
+- Co-founded and led all facets of corporate formation for technology solutions consulting company with 7 employees and averages of $2 million in yearly revenue.
 
 - Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
@@ -20,7 +20,7 @@
 
 ### **Co-Founder**
 
-*Sept 2018 - Present*
+#### *Sept 2018 - Present*
 
 - Patented a hand sanitation compliance enforcement systems and its methods
 
@@ -30,14 +30,13 @@
 
 - Responsible for licensing and monetization paths; including low vs high compliance and open source.
 
-
 ---
 
-## Insightful Health 
+## Insightful Health
 
-### **Co-Founder**
+### **Founder**
 
-*Jan 2020 - Present*
+#### *Jan 2020 - Present*
 
 - Raised $1 million in pre-seed funding through combined offering of common and preffered equity with super-voting rights.
 
@@ -49,7 +48,7 @@
 
 ### **Manager Portals and Collaboration**
 
-*May 2014 - June 2016*
+#### *May 2014 - June 2016*
 
 - Responsible for all SaaS and internal portal and collaboration software.
 
