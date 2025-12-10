@@ -1,4 +1,4 @@
-# John Marcus (Abldesayed) Aziz
+# John Marcus (Abdelsayed) Aziz
 
 ---
 
