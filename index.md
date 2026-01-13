@@ -78,7 +78,7 @@ Innovative architect and entrepreneur with 20+ years driving digital transformat
 
 ## Education & Certifications
 
-- **University of Illinois:** Economics & Anthropology (140 Hours)
+- **University of Illinois:** Economics & Anthropology
 - **Microsoft Certified Systems Engineer (MCSE):** 1999 Early Achiever
 
 ---
