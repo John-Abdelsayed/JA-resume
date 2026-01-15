@@ -4,16 +4,16 @@
 
 ## Enterprise Solutions Architect & Tech Co-Founder
 
-Innovative architect and entrepreneur with 20+ years driving digital transformation, AI/ML, and enterprise IT solutions. Proven leader in founding and scaling tech ventures, securing funding, and delivering high-impact cloud, on-prem, and hybrid solutions. Expertise in AI/ML, IoT, SaaS, and enterprise architecture.
+Innovative solutions architect and entrepreneur with 20+ years driving digital transformation, AI/ML, and enterprise IT solutions. Proven leader in founding and scaling tech ventures, securing funding, and delivering high-impact cloud, on-prem, and hybrid solutions. Expertise in AI/ML, IoT, SaaS, and enterprise architecture.
 
 ---
 
 ## Core Strengths
 
-- **Digital Transformation:** Cloud, on-prem, hybrid, SaaS, SharePoint, Microsoft 365
-- **AI/ML & IoT:** Computer vision, AIaaS, embedded systems, patented IoB devices
-- **Leadership:** Co-founded 3 ventures, secured $1M+ funding, scaled teams, managed full corporate functions
 - **Patents & IP:** 3 US patents, $5M+ IP portfolio, end-to-end patent lifecycle management
+- **Digital Transformation:** Cloud, on-prem, hybrid, SaaS, SharePoint, Microsoft 365
+- **AI/ML & IoT:** Computer Vision, AIaaS, embedded systems, patented IoB devices
+- **Leadership:** Co-founded 3 ventures, secured $1M+ funding, scaled teams, managed full corporate functions
 - **Business Growth:** Built $1M+ revenue, $15M spin-off valuations, strategic partnerships
 
 ---
@@ -24,7 +24,8 @@ Innovative architect and entrepreneur with 20+ years driving digital transformat
 *Digital Transformation Innovators Group (DTIG) | 2017–Present*
 
 - Grew DTIG to $1M+ annual revenue, leading all corporate functions (legal, ops, sales, tech).
-- Launched two spin-offs (combined $15M valuation), secured partnerships with Tahoe Partners, Improving Consulting.
+- Launched two spin-offs with combined $15M valuation.
+- Secured partnerships with Tahoe Partners and Improving Consulting.
 - Architected enterprise solutions across cloud, on-prem, and hybrid environments.
 
 **Co-Founder**
@@ -42,7 +43,7 @@ Innovative architect and entrepreneur with 20+ years driving digital transformat
 **Manager, Collaboration and Portals**
 *Corporation Services Company (CSC) | 2014–2017*
 
-- Scaled team from 1 to 12, managed global SharePoint farms, delivered predictive ROI.
+- Scaled Information Architecture team from 1 to 12, managed global SharePoint farms, delivered predictive ROI.
 
 **Senior SharePoint Architect**
 *Ruby Technology Group | 2010–2014*
@@ -54,7 +55,7 @@ Innovative architect and entrepreneur with 20+ years driving digital transformat
 
 - Led IT team of 12, deployed Windows/Exchange/AD for SMBs, managed 1000+ PC rollout.
 
-*(Earlier roles at Sanford Corporation, PCNE Inc, Electrical Insurance Trustees available upon request)*
+*(Earlier roles at **Sanford Corporation, PCNE Inc, and Electrical Insurance Trustees** available upon request)*
 
 ---
 
@@ -71,7 +72,7 @@ Innovative architect and entrepreneur with 20+ years driving digital transformat
 
 - **Enterprise Architecture:** Cloud, Hybrid, SaaS, SharePoint, Microsoft 365
 - **AI/ML & IoT:** Computer Vision, AIaaS, IoB, Embedded Systems
-- **Project Management:** Agile, DevOps, Budgeting, Vendor Relations
+- **Project Management:** Agile, DevOps, Budgeting, Contract Management, Vendor Relations
 - **Business Development:** Funding, Valuation, Partnerships, Marketing
 
 ---
