@@ -7,7 +7,7 @@ from pathlib import Path
 from datetime import datetime
 
 AGENTS_FILE = "AGENTS.md"
-MODEL_PLANNER = "qwen3-4b-instruct-2507:latest"
+MODEL_PLANNER = "kamekichi128/qwen3-4b-instruct-2507:latest"
 MODEL_EXECUTOR = "nemotron-3-nano:4b"
 
 
