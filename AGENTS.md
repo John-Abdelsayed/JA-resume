@@ -55,12 +55,6 @@ JA-resume/
 
 ## 4. Development Workflow
 
-- **Install Dependencies**: N/A
-- **Start Dev Server**: N/A
-- **Build for Production**: N/A
-- **Preview Build**: N/A
-- **Lint Code**: N/A
-
 ## 5. Design System & Aesthetics
 
 - Use lightweight CSS only (no heavy JS frameworks)
