@@ -2,6 +2,22 @@
 
 This document provides comprehensive context and guidelines for AI agents working on this repository.
 
+## 0. Agent Mission
+
+The agent’s goal is to continuously improve this portfolio site by:
+
+- Increasing clarity, professionalism, and impact of content
+- Optimizing for recruiter and hiring manager engagement
+- Maintaining fast load times and GitHub Pages compatibility
+- Improving SEO and accessibility
+- Preserving a clean, modern visual design
+
+When making changes, prioritize:
+
+1. Readability and scannability
+2. Measurable impact (metrics, outcomes)
+3. Simplicity over complexity
+
 ## 1. Project Identity
 
 - **Name**: John Marcus Aziz
@@ -11,33 +27,29 @@ This document provides comprehensive context and guidelines for AI agents workin
 
 ## 2. Technology Stack
 
-- **Core**: Markdown, Jekyll Theming
-- **Build Tool**: N/A
-- **Package Manager**: N/A
-- **UI Framework**: Jekyll
-- **Styling Engine**: N/A
-- **Routing**: N/A
-- **Linting**: N/A
-- **Deployment**: GitHub Actions
+- This is a static Jekyll site with no JavaScript build pipeline.
+- Do not introduce Node.js, npm, or complex build systems.
+- Keep the site compatible with native GitHub Pages builds.
 
 ## 3. Project Structure
 
-```
+```Markdown
+
 JA-resume/
-├── _config.yml         # Jekyll theming
-├── AGENTS.md           # This file
-├── AUTHORS.md          # An authors file crediting contributors
-├── CHANGELOG.md        # A log of all changes in the repository
-├── CNAME               # A file used by GitHub for DNS aliasing
-└── coverpage.md        # A cover page template, I use for each job application
-├── index.md            # The main page in markdown
-├── LICENSE.md          # A legal agreement that defines how others can use, modify, and distribute my open-source project code
-├── NEWS.md             # General news
-├── README.md           # A file that describes this repository.
-├── resume.md           # My resume in markdown format
-├── resume.pdf          # My resume in pdf format
-├── resume.odt          # My resume in odt format
-├── SECURITY.md         # Provides instructions on how to report security vulnerabilities or concerns to the project maintainers, ensuring responsible disclosure and proper handling of security issues
+├── _config.yml
+├── AGENTS.md
+├── AUTHORS.md
+├── CHANGELOG.md
+├── CNAME
+├── coverpage.md
+├── index.md
+├── LICENSE.md
+├── NEWS.md
+├── README.md
+├── resume.md
+├── resume.pdf
+├── resume.odt
+├── SECURITY.md
 
 ```
 
@@ -51,29 +63,106 @@ JA-resume/
 
 ## 5. Design System & Aesthetics
 
-- **Theme**: Jekyll
-- **Primary Colors**:
-  - LinkedIn Blue: `#0077B5`
-  - GitHub Dark: `#24292E`
-- **Visual Style**:
-  - **Glassmorphism**: Heavy use of semi-transparent backgrounds with blur.
-  - **Gradients**: Modern, vibrant gradients for text and backgrounds.
-  - **Animations**: Smooth transitions, hover effects (scale, lift), and micro-interactions.
-- **Typography**: Modern sans-serif (via MUI default or configured font).
+- Use lightweight CSS only (no heavy JS frameworks)
+- Prefer inline styles or minimal CSS files
+- Avoid dependencies that GitHub Pages cannot build
 
-## 6. Content Management (N/A)
+- Visual Guidelines:
+  - Use subtle glassmorphism (avoid overuse)
+  - Ensure text contrast meets accessibility standards
+  - Keep animations minimal and performant
+
+- Mobile-first design is required
+
+## 6. Content Strategy
+
+- Use concise, results-driven bullet points (Google/consulting style)
+- Each experience entry should:
+  - Start with a strong action verb
+  - Include measurable outcomes (%, $, scale, performance)
+  - Be 1–2 lines max per bullet
+
+- Tone:
+  - Professional, confident, and direct
+  - Avoid buzzwords without proof
+  - Avoid fluff or generic claims
+
+- Prioritize:
+  - AI/ML, digital transformation, and enterprise impact
+  - Leadership and ownership
+  - Business outcomes over technical details
+
+- Avoid:
+  - Long paragraphs
+  - First-person pronouns (“I”, “me”)
 
 ## 7. Agent Guidelines & Rules
 
-1. **Package Manager**: N/A
-2. **Styling**: Use Jekyll themes that do not have GitHub branding
-3. **Icons**: Use `FontAwesome Icon Font` and `Linear Icon Font`.
-4. **Responsiveness**: N/A
-5. **Code Quality**:  N/A
-6. **File Naming**:  N/A
-7. **Privacy**: NEVER add personal contact info (phone, email, address) directly to the code.
+- Do NOT:
+  - Introduce frameworks (React, Vue, etc.)
+  - Add backend services
+  - Break GitHub Pages compatibility
+
+- Prefer:
+  - Markdown-first solutions
+  - Simplicity over feature expansion
+  - Readability over visual complexity
+
+- When editing:
+  - Make small, incremental changes
+  - Preserve existing working structure
+  - Ensure links and anchors still function
+
+- Always validate:
+  - Markdown renders correctly
+  - No broken links
 
 ## 8. Deployment
 
 - The project is deployed on GitHub Pages.
 - Deploys automatically on push to `main`.
+
+## 9. SEO & Performance
+
+- Use semantic HTML via Markdown (headings in correct order)
+- Ensure each page has:
+  - Title
+  - Meta description
+- Optimize images (if added) for size
+
+- Prioritize:
+  - Fast load time (<2s)
+  - Minimal external dependencies
+
+- Use keywords:
+  - "Solutions Architect"
+  - "AI/ML"
+  - "Digital Transformation"
+  - "Enterprise IT"
+
+## 10. Change Safety Guidelines
+
+### Safe Changes
+
+- Editing content in .md files
+- Improving wording and formatting
+- Updating styles within existing theme constraints
+
+### Risky Changes (require caution)
+
+- Changing _config.yml
+- Modifying theme structure
+- Adding external scripts or dependencies
+
+## 11. Execution Rules
+
+When making changes:
+
+- Always output full file contents when editing
+- Do not describe changes — implement them
+- Prefer modifying existing files over creating new ones
+- Keep formatting valid Markdown
+
+If unsure:
+
+- Ask for clarification instead of guessing
