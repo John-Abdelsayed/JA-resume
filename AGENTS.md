@@ -25,6 +25,19 @@ When making changes, prioritize:
 - **Type**: Single Page Application (SPA)
 - **Live URL**: [resume.johnmarcusaziz.com](https://resume.johnmarcusaziz.com)
 
+## Key Achievements
+
+- Led AI transformation impacting $X revenue
+- Reduced costs by X% across enterprise systems
+- Scaled platform to X users
+
+## Target Roles
+
+- Solutions Architect
+- AI/ML Leader
+- Enterprise Architect
+- CTO / Head of Engineering
+
 ## 2. Technology Stack
 
 - This is a static Jekyll site with no JavaScript build pipeline.
