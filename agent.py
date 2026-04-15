@@ -52,6 +52,12 @@ Follow ALL rules in AGENTS.md:
 Task:
 {task}
 
+CRITICAL:
+- Output MUST be valid JSON
+- Do NOT include line breaks inside strings
+- Use \\n for newlines if needed
+- Do NOT add explanations
+
 Output JSON:
 {{
   "steps": [
