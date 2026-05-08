@@ -25,7 +25,7 @@ Innovative solutions architect and entrepreneur with 20+ years driving digital t
 
 - Grew DTIG to $1M+ annual revenue, leading all corporate functions (legal, ops, sales, tech).
 - Launched two spin-offs with combined $15M valuation.
-- Secured partnerships with Tahoe Partners and Improving Consulting.
+- Secured partnerships with Tahoe Partners and Improving Consulting worth $5M over 10 years.
 - Architected enterprise solutions across cloud, on-prem, and hybrid environments.
 
 **Co-Founder**
